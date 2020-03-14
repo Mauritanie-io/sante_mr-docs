@@ -3,4 +3,5 @@
 * [Accueil](README.md)
 * [Tout savoir sur la maladie](untitled.md)
 * [Foracast](foracast.md)
+* [Mesures de protection et consignes](mesures-de-protection-et-consignes.md)
 
