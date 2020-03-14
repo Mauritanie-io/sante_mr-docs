@@ -42,7 +42,9 @@ Bien que L'Organisation mondiale de la Santé \(OMS\) a indiqué que 80 % des ca
 
 ![\[version adapt&#xE9;e de la source : CDC\]](.gitbook/assets/screen-shot-2020-03-14-at-22.03.46.png)
 
-Le nombre de cas par jour 
+On parle ici d" 'aplatir la courbe" : c'est-à-dire on essaiera en adoptant les consignes de protection de ralentir le taux d'augmentation des infection par jour. Cela ne garantie pas que le nombre total des infectés va diminuer ou que l'épidémie va affecter moins de personnes, mais tout simplement le but est de ralentir le rythme d'arrivée des nouveaux cas aux hôpitaux afin d'alleger la charge sur nos médecins et nos infrastructures. 
+
+
 
 
 
