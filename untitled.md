@@ -38,9 +38,13 @@ Bien que L'Organisation mondiale de la Santé \(OMS\) a indiqué que 80 % des ca
 | 70-79 ans | 8% |
 | 80 ans ou +  | 14.8% |
 
-## 
+## Pourquoi est-il si crucial d'éviter les événements et de se mettre en quarantaine ? 
 
-### 
+![\[version adapt&#xE9;e de la source : CDC\]](.gitbook/assets/screen-shot-2020-03-14-at-22.03.46.png)
+
+Le nombre de cas par jour 
+
+
 
 
 
