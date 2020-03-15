@@ -1,8 +1,8 @@
 # A propos
 
-![](.gitbook/assets/screenshot-from-2020-03-15-22-59-40.png)
+## Pourquoi c19.sante.mr?
 
-Pourquoi c19.sante.mr?
+![](.gitbook/assets/screenshot-from-2020-03-15-22-59-40.png)
 
 Le présent site internet a été conçu en s'appuyant sur les recommandations de l'organisation mondiale de la santé et à partir des ressources citées dans la rubrique [Liens utiles](ressources/ressources.md).  
 Il vise à :
