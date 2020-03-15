@@ -7,7 +7,7 @@ description: >-
 
 # Conseils aux voyageurs
 
-![](../.gitbook/assets/airlines.jpg)
+![Credits @air-journal](../.gitbook/assets/airlines.jpg)
 
 ## Je viens d'un pays très touché par la pandémie
 
