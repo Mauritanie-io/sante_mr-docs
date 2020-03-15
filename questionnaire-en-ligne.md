@@ -12,5 +12,7 @@ Toute personne ayant des doutes suite aux resultats du questionnaire devrait pre
 
 {% embed url="https://c19.info/fr/" %}
 
-
+{% hint style="info" %}
+Ce message ne qualifie en aucun cas un diagnostic individuel ou une prescription médicale et ne remplace en aucun cas une prise en charge médicale par un professionnel de santé compétent. Ce message repose sur les recommandations du ministère de la santé.
+{% endhint %}
 
