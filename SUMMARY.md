@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Péambule](README.md)
+* [Préambule](README.md)
 * [Coronavirus COVID-19](untitled.md)
 
 ## Actualités

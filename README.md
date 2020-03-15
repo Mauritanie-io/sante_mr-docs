@@ -1,4 +1,4 @@
-# Péambule
+# Préambule
 
 ## Pourquoi sante.mr?
 
