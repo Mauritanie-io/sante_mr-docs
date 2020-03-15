@@ -25,3 +25,8 @@ Il vise à :
 
 Ce site est le fruit d'une collaboration étroite entre ingénieurs, médecins et citoyens mauritaniens du monde avec l'appui des autorités mauritaniennes et la société Mauritel principal opérateur téléphonique en Mauritanie.
 
+Vous pouvez contribuer:
+
+* en rejoignant notre slack : [https://join.slack.com/t/mauritanie/shared\_invite/zt-csn4kcdi-b0qI~wz\_9pTqYp1MavFadQ](https://join.slack.com/t/mauritanie/shared_invite/zt-csn4kcdi-b0qI~wz_9pTqYp1MavFadQ)
+* sur github en pull request : [https://github.com/Mauritanie-io](https://github.com/Mauritanie-io) 
+
