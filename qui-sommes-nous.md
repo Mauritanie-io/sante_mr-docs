@@ -1,2 +1,0 @@
-# Qui sommes-nous?
-
