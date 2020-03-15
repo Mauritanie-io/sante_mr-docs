@@ -1,3 +1,7 @@
+---
+description: Site de prevention contre le coronavirus covid-19 en Mauritanie
+---
+
 # A propos
 
 ## Pourquoi c19.sante.mr?
