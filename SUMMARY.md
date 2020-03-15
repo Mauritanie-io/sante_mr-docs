@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Préambule](README.md)
-* [Situation en Mauritanie](foracast.md)
 * [Coronavirus COVID-19](untitled.md)
 * [Questionnaire en ligne](questionnaire-en-ligne.md)
 
 ## Actualités
 
+* [Situation en Mauritanie](actualites/foracast.md)
 * [Situation dans le monde](actualites/situation-dans-le-monde.md)
 * [Mesures gouvernementales](actualites/mesures-gouvernementales.md)
 
