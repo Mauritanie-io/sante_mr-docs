@@ -7,13 +7,19 @@ description: >-
 
 # Conseils aux voyageurs
 
-## Dois-je porter un masque ??
+![](../.gitbook/assets/airlines.jpg)
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+## Je viens d'un pays très touché par la pandémie
 
-## Have you had a chance to answer the previous question?
+Je dois systématiquement me mettre en quarantaine pour au moins 14 jours et suivre les consignes relatives au suivi de l'évolution des symptômes, et comment réagir en cas d'apparition. \[section Consignes sanitaires\] 
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## Je viens d'un pays peu touché par l'épidémie
+
+Il est quand même recommandé de s'isolé les premiers jours suivant son arrivée, et limiter les contacts et les déplacements qui ne sont pas nécessaires.
+
+
+
+
 
 
 
