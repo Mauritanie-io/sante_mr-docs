@@ -71,5 +71,5 @@ Dans ce cas l'isolement sera systématiquement levé, mais je continue à appliq
 
 ## Si je ne présente pas de symptômes, dois-je porter un masque pour me protéger?
 
-Le port du masque chirurgical n’est pas recommandé pour les gens qui ne présente pas de symptômes. En effet, le masque ne peut pas Le masque n’est pas la bonne réponse pour le grand public car il ne peut être porté en permanence et surtout n’a pas d’indication sans contact rapproché et prolongé avec un malade
+Le port du masque chirurgical n’est pas recommandé pour les gens qui ne présente pas de symptômes. En effet, le masque ne peut pas être porté en permanence car il doit être changé au maximum au bout de 8 heures, et surtout que sans contact étroit et prolongé avec un malade on ne risque absolument rien. 
 
