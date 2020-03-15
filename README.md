@@ -1,6 +1,6 @@
 # Préambule
 
-## Pourquoi sante.mr?
+## Pourquoi c19.sante.mr?
 
 Ce site est destiné à la prévention contre le corona virus alias Covid-19 en Mauritanie.
 
