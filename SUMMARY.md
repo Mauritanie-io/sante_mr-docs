@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Préambule](README.md)
+* [A propos](README.md)
 * [Coronavirus COVID-19](untitled.md)
 * [Questionnaire en ligne](questionnaire-en-ligne.md)
 
