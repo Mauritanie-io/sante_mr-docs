@@ -41,9 +41,9 @@ Actuellement les pays concernés sont :
 
 ## Dispositif de contrôle aux frontières 
 
- [le Ministère de la Santé ](http://www.sante.gov.mr/?lang=fr) a souligné que des contrôles ont été mis en place au niveau des frontières dans les aéroports, les ports et les points de passage terrestres en vue de vérifier qu’aucune personne ne porte le virus.
+ [Le Ministère de la Santé ](http://www.sante.gov.mr/?lang=fr) a souligné que des contrôles ont été mis en place au niveau des frontières dans les aéroports, les ports et les points de passage terrestres en vue de vérifier qu’aucune personne ne porte le virus.
 
-\*\*\*\*
+![](../.gitbook/assets/screen-shot-2020-03-15-at-23.39.38.png)
 
 ## Comment sont pris en charge les éventuels patients symptomatiques à l’aéroport ?
 
