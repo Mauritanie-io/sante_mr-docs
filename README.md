@@ -4,6 +4,10 @@ description: Site de prévention contre le coronavirus covid-19 en Mauritanie
 
 # A propos
 
+{% hint style="info" %}
+La version en arabe est en cours de conception.
+{% endhint %}
+
 ## Pourquoi c19.sante.mr?
 
 ![](.gitbook/assets/screenshot-from-2020-03-15-22-59-40.png)
