@@ -24,5 +24,5 @@
 
 {% embed url="https://sph.nus.edu.sg/covid-19/?fbclid=IwAR1Gluzv7dM1zicBxXtTsMFBL-FVOsYHJe6NV5t80Pv93YDzGrOHzsiw994" %}
 
-
+{% embed url="https://observablehq.com/@yurivish/dont-be-italy?fbclid=IwAR1xmTezwQd\_kUAwZxe2lrrp2fenX2wWhYWXnzBL06HtSC3lwr4hkNVl63A" %}
 
