@@ -1,6 +1,13 @@
+---
+description: >-
+  Les voyageurs sont de plus en plus stressés par la pandémie de coronavirus qui
+  sévit dans le monde entier, ce qui entraîne des restrictions, des annulations
+  et des suspensions de voyage.
+---
+
 # Conseils aux voyageurs
 
-## Can I become who I want to be?
+## Dois-je porter un masque ??
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
