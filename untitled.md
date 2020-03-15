@@ -1,4 +1,4 @@
-# Tout savoir sur la maladie
+# Coronavirus COVID-19
 
 ## Qu'est-ce que le Coronavirus ?
 

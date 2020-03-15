@@ -1,4 +1,4 @@
-# Mesures de protection et consignes
+# Consignes sanitaires
 
 ## Comment se protéger contre le virus ?
 
