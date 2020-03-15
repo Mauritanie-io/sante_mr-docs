@@ -4,7 +4,7 @@
 
 * **Bien se laver les mains :** 
 
-Se laver les main régulièrement avec de l'eau et du savon ou en utilisant une solution hydro-alcoolique. Car on touche tout et n'importe quoi avec nos mains et après on touche des parties sensibles du visage comme le nez, la bouche ou les oreilles qui sont une porte d'entrée principale aux virus et aux bactéries.
+Se laver les main régulièrement avec de l'eau et du savon ou en utilisant une solution hydro-alcoolique. Car on touche tout et n'importe quoi avec nos mains et après on touche des parties sensibles du visage comme le nez, la bouche ou les yeux qui sont une porte d'entrée principale aux virus et aux bactéries.
 
 * **Tousser et éternuer dans le coude :**
 
@@ -14,7 +14,7 @@ En adoptant ce geste barrière on limite le risque de propager tout éventuel vi
 
 Eviter de se serrer la main au maximum, et en cas de nécessité, lavez-vous la main avant tout contact avec votre visage.
 
-* **Le masque est recommandé uniquement pour les personnes qui sont malades**
+* **Le masque est recommandé uniquement pour les personnes qui sont malades ou ceux qui s'occupent d'une personne malade ou susceptible de l'être**
 *  **Éviter tout contact avec toute personne présentant des symptômes**
 * **Éviter les transports en commun, les taxis surchargés au maximum**
 * **Booster son système immunitaire**
@@ -32,12 +32,14 @@ Je reste chez moi, j’évite tout contact humain,.j’appelle un médecin avant
 
 ## Quelle est la catégorie de personnes considérée à risque ?  
 
-* Les personnes âgées de 70 ans et plus ;
+* Les personnes âgées de 60 ans et plus ;
 * Les femmes enceintes ; 
 * Les patients qui ont des problèmes cardiovasculaires :ou qui ont des antécédents du type : chirurgie cardiaque, hypertension artérielle, chirurgie cardiaque etc... ;
 * Les diabétiques qui ont besoin de l'insuline ;
 * Les insuffisants respiratoires chroniques sous oxygénothérapie ou asthme  ;
 * Les personnes avec une immunodépression ; 
+* Les personnes présentant une obésité ;
+* Les gros fumeurs.
 
 ## Je ne présente pas de symptômes et je n'ai pa eu de contact récent avec une personne infectée, que dois-je faire pour me protéger ?
 
