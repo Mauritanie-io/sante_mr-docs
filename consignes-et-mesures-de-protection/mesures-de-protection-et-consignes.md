@@ -77,3 +77,11 @@ Dans ce cas l'isolement sera systématiquement levé, mais je continue à appliq
 
 Le port du masque chirurgical n’est pas recommandé pour les gens qui ne présente pas de symptômes. En effet, le masque ne peut pas être porté en permanence car il doit être changé au maximum au bout de 8 heures, et surtout que sans contact étroit et prolongé avec un malade on ne risque absolument rien. 
 
+## En cas de fièvre ou maux de tête 
+
+![Pas d&apos;anti-inflammatoires en cas de Covid-19](../.gitbook/assets/screen-shot-2020-03-15-at-22.17.47.png)
+
+La prise de médicaments anti-inflammatoires pourrait être un facteur d’aggravation de l’infection. En effet ces médicament diminue la défense immunitaire
+
+Opter plutôt pour le Paracétamol par exemple.
+
