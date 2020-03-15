@@ -1,5 +1,7 @@
 # Coronavirus COVID-19
 
+![ Coronavirus Covid-19](.gitbook/assets/screen-shot-2020-03-15-at-22.21.30.png)
+
 ## Qu'est-ce que le Coronavirus ?
 
 Les coronavirus sont un type de virus. Il en existe de nombreux types différents, et certains provoquent des maladies. Un type nouvellement identifié a provoqué une récente épidémie de maladie respiratoire, appelée aujourd'hui COVID-19 \(qui signifie Corona Virus Disease 2019.
