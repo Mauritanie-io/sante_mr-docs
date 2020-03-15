@@ -21,7 +21,9 @@ Eviter de se serrer la main au maximum, et en cas de nécessité, lavez-vous la 
 
 \*\*\*\*
 
-\*\*\*\*
+## Protéger et aider les plus fragiles
+
+
 
 \*\*\*\*
 
