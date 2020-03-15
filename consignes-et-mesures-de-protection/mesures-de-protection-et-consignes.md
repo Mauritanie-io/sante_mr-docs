@@ -2,6 +2,8 @@
 
 ## Comment se protéger contre le virus ?
 
+![Source \[ Washington Post \]](../.gitbook/assets/wash.webp)
+
 * **Bien se laver les mains :** 
 
 Se laver les main régulièrement avec de l'eau et du savon ou en utilisant une solution hydro-alcoolique. Car on touche tout et n'importe quoi avec nos mains et après on touche des parties sensibles du visage comme le nez, la bouche ou les yeux qui sont une porte d'entrée principale aux virus et aux bactéries.
