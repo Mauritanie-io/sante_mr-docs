@@ -8,7 +8,7 @@ description: Site de prévention contre le coronavirus covid-19 en Mauritanie
 
 ![](.gitbook/assets/screenshot-from-2020-03-15-22-59-40.png)
 
-Le présent site internet a été conçu en s'appuyant sur les recommandations de l'organisation mondiale de la santé et à partir des ressources citées dans la rubrique [Liens utiles](ressources/ressources.md).
+Le présent site internet a été conçu en s'appuyant sur les recommandations de l'organisation mondiale de la santé et à partir des ressources citées dans la rubrique [Liens utiles](ressources/liens-utiles.md).
 
 ![Credit: Boston University](.gitbook/assets/istock-1204033162-1500x624-1200x500.jpg)
 

@@ -1,12 +1,12 @@
 # Table of contents
 
 * [A propos](README.md)
-* [Coronavirus COVID-19](untitled.md)
+* [Coronavirus COVID-19](covid-19.md)
 * [Questionnaire en ligne](questionnaire-en-ligne.md)
 
 ## Actualités
 
-* [Situation en Mauritanie](actualites/foracast.md)
+* [Situation en Mauritanie](actualites/situation-en-mauritanie.md)
 * [Situation dans le monde](actualites/situation-dans-le-monde.md)
 * [Mesures gouvernementales](actualites/mesures-gouvernementales.md)
 
@@ -27,7 +27,7 @@
 
 ## Ressources
 
-* [Liens utiles](ressources/ressources.md)
+* [Liens utiles](ressources/liens-utiles.md)
 * [Open source](ressources/open-source.md)
 * [Open data](ressources/open-data.md)
 * [Mentions légales](mentions-legales.md)

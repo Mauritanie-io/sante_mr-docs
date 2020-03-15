@@ -1,2 +1,0 @@
-# Situation en Mauritanie
-
