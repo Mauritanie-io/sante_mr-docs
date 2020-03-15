@@ -4,8 +4,6 @@
 
 {% embed url="https://arcg.is/0fHmTX" caption="Real-time dashboard provided by Johns Hopkins Center for Systems Science and Engineering" %}
 
-{% page-ref page="open-data.md" %}
-
 
 
 
