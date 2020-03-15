@@ -1,6 +1,8 @@
 # Coronavirus COVID-19
 
-![ Coronavirus Covid-19](.gitbook/assets/screen-shot-2020-03-15-at-22.21.30.png)
+![ Coronavirus Covid-19 \[Credits Numerama\]](.gitbook/assets/screen-shot-2020-03-15-at-22.21.30.png)
+
+
 
 ## Qu'est-ce que le Coronavirus ?
 
