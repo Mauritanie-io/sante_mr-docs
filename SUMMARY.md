@@ -29,4 +29,5 @@
 * [Liens utiles](ressources/ressources.md)
 * [Open source](ressources/open-source.md)
 * [Open data](ressources/open-data.md)
+* [Mentions légales](mentions-legales.md)
 
