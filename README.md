@@ -6,7 +6,7 @@ Ce site est destiné à la prévention contre le corona virus alias Covid-19 en 
 
 ![Credit: Boston University](.gitbook/assets/istock-1204033162-1500x624-1200x500.jpg)
 
-Il a our objectifs  de:
+Il a pour objectifs  de:
 
 * Suivre la progression de la maladie en Mauritanie en s'appuyant sur les données locales
 * Prédire l'évolution de la maladie à partir:
