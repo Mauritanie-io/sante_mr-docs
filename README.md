@@ -34,3 +34,5 @@ Vous pouvez contribuer:
 * en rejoignant notre slack : [https://join.slack.com/t/mauritanie/shared\_invite/zt-csn4kcdi-b0qI~wz\_9pTqYp1MavFadQ](https://join.slack.com/t/mauritanie/shared_invite/zt-csn4kcdi-b0qI~wz_9pTqYp1MavFadQ)
 * sur github en pull request : [https://github.com/Mauritanie-io](https://github.com/Mauritanie-io) 
 
+Initiatives opensource communautés internationales: [OpenCovid19](https://app.jogl.io/project/118?fbclid=IwAR0Y68ZdCScloACAyBAx_aHc1XTZnUTkxWldS9cWunvVZgC1Pp1Ywm-JVSY)
+
