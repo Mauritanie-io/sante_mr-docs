@@ -36,3 +36,9 @@ Vous pouvez contribuer:
 
 Initiatives opensource communautés internationales: [OpenCovid19](https://app.jogl.io/project/118?fbclid=IwAR0Y68ZdCScloACAyBAx_aHc1XTZnUTkxWldS9cWunvVZgC1Pp1Ywm-JVSY)
 
+## Aperçu rapide sur le virus
+
+{% embed url="https://www.youtube.com/watch?time\_continue=1&v=Kas0tIxDvrg" caption="Comprendre la croissance du virus" %}
+
+{% embed url="https://www.youtube.com/watch?v=c8hW1CVosno&feature=emb\_logo" caption="Comprendre le virus" %}
+
