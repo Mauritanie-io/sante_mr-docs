@@ -26,3 +26,7 @@
 
 {% embed url="https://observablehq.com/@yurivish/dont-be-italy?fbclid=IwAR1xmTezwQd\_kUAwZxe2lrrp2fenX2wWhYWXnzBL06HtSC3lwr4hkNVl63A" %}
 
+{% embed url="https://hunch.net/?p=13762539&fbclid=IwAR34\_i8\_y\_kAMlnyo7dEmUVIXth9wzX2PWnlUF3twCFLgKhrDyqI4wPKT\_M" %}
+
+
+
