@@ -1,5 +1,11 @@
 # Situation en Mauritanie
 
+## 26-03-2020
+
+### Communiqué du Ministère de la santé:
+
+* Troisième cas covid-19 détecté en Mauritanie
+
 ## 15:00 - 15-03-2020
 
 ### Communiqué du Ministère de la Culture
