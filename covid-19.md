@@ -4,7 +4,7 @@
 
 ## Qu'est-ce que le Coronavirus ?
 
-Les coronavirus sont un type de virus. Il en existe de nombreux types différents, et certains provoquent des maladies. Un type nouvellement identifié a provoqué une récente épidémie de maladie respiratoire, appelée aujourd'hui COVID-19 \(qui signifie Corona Virus Disease 2019.
+Les coronavirus sont un type de virus. Il en existe de nombreux types différents, et certains provoquent des maladies. Un type nouvellement identifié a provoqué une récente épidémie de maladie respiratoire, appelée aujourd'hui COVID-19 qui signifie Corona Virus Disease 2019.
 
 ## Comment ce nouveau coronavirus s'est-il transmis aux humains ?
 
