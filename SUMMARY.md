@@ -2,7 +2,6 @@
 
 * [A propos](README.md)
 * [Coronavirus COVID-19](covid-19.md)
-* [Untitled](untitled.md)
 * [Diganostic en ligne](diagnostic-en-ligne.md)
 
 ## Actualités
