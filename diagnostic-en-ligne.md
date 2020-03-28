@@ -2,7 +2,7 @@
 description: Questionnaire de diagnostic rapide au COVID-19.
 ---
 
-# Questionnaire en ligne
+# Diganostic en ligne
 
 Le questionnaire suivant a été réalisé par la société Nabla.com. Les questions sont régulièrement mises à jour et établies à partir des recommandations du ministère de la santé en France. 
 
