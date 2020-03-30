@@ -38,3 +38,21 @@ Initiatives opensource communautés internationales: [OpenCovid19](https://app.j
 
 {% embed url="https://www.youtube.com/watch?v=c8hW1CVosno&feature=emb\_logo" caption="Comprendre le virus" %}
 
+## **Ressources gouvernementale internationale pour le coronavirus**
+
+[US Government Advice on Corona Virus](https://www.cdc.gov/coronavirus/2019-ncov/) 
+
+[UK Government Advice on Corona Virus](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
+
+[Canadian Government Advice on Corona Virus](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection)
+
+[Indian Government Advice on Corona Virus](https://www.mygov.in/covid-19)
+
+[German Government Advice on Corona Virus](https://www.bundesregierung.de/breg-en/search/ausbreitung-coronavirus-1726158)
+
+[Netherlands Government Advice on Corona Virus](https://www.government.nl/topics/coronavirus-covid-19)
+
+[Australian Government Advice on Corona Virus](https://www.australia.gov.au/)
+
+[Spanish Government Advice on Corona Virus](https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/)
+
